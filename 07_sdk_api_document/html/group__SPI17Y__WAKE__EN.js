@@ -1,0 +1,27 @@
+var group__SPI17Y__WAKE__EN =
+[
+    [ "MXC_F_SPI17Y_WAKE_EN_TX_THRESH_POS", "group__SPI17Y__WAKE__EN.html#ga63587c20b9cce3e272628efbe4144e07", null ],
+    [ "MXC_F_SPI17Y_WAKE_EN_TX_THRESH", "group__SPI17Y__WAKE__EN.html#gaec8e752d4de144f1a7797e1f5a02bd81", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_TX_THRESH_DIS", "group__SPI17Y__WAKE__EN.html#ga3f64a789165cff14c56976ce23f4362b", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_TX_THRESH_DIS", "group__SPI17Y__WAKE__EN.html#ga5f6a45b16917f8d70fcde67706c99ba3", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_TX_THRESH_EN", "group__SPI17Y__WAKE__EN.html#ga4592175cccae7289d986e950f834c28e", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_TX_THRESH_EN", "group__SPI17Y__WAKE__EN.html#ga738822e1550a6519c0e1d6249dc286f2", null ],
+    [ "MXC_F_SPI17Y_WAKE_EN_TX_EMPTY_POS", "group__SPI17Y__WAKE__EN.html#gaf0f826989a729956d62463dd615c97b6", null ],
+    [ "MXC_F_SPI17Y_WAKE_EN_TX_EMPTY", "group__SPI17Y__WAKE__EN.html#ga48edb30a636eca31176c979fc83790f6", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_TX_EMPTY_DIS", "group__SPI17Y__WAKE__EN.html#gad1657bd6b314fea452ed42c7b51c4c68", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_TX_EMPTY_DIS", "group__SPI17Y__WAKE__EN.html#ga08cfbdb84147081d01a19284a54431c3", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_TX_EMPTY_EN", "group__SPI17Y__WAKE__EN.html#gaf57e06ede496b706e42319aa4978c4f9", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_TX_EMPTY_EN", "group__SPI17Y__WAKE__EN.html#gad14a132c97b2d11f478f090cc5d030bd", null ],
+    [ "MXC_F_SPI17Y_WAKE_EN_RX_THRESH_POS", "group__SPI17Y__WAKE__EN.html#ga851a0093bec11b491afb48b079afaf6b", null ],
+    [ "MXC_F_SPI17Y_WAKE_EN_RX_THRESH", "group__SPI17Y__WAKE__EN.html#ga4a829493970fa3a5daad50a6c19b529e", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_RX_THRESH_DIS", "group__SPI17Y__WAKE__EN.html#ga29c18f79f08aab7b7afdf429614b7cb5", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_RX_THRESH_DIS", "group__SPI17Y__WAKE__EN.html#ga93559b2e34d7ef0eafe552dccbf60bd7", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_RX_THRESH_EN", "group__SPI17Y__WAKE__EN.html#ga0ae13755f49e9d8ab7fc349a1a74d68b", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_RX_THRESH_EN", "group__SPI17Y__WAKE__EN.html#gac010bcbd07203818ac8a13c007a5b775", null ],
+    [ "MXC_F_SPI17Y_WAKE_EN_RX_FULL_POS", "group__SPI17Y__WAKE__EN.html#ga93884e6b2a8a0a4e7d3e5fd3c481dcb3", null ],
+    [ "MXC_F_SPI17Y_WAKE_EN_RX_FULL", "group__SPI17Y__WAKE__EN.html#ga8b9181aa042e1799b0249e32772bb184", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_RX_FULL_DIS", "group__SPI17Y__WAKE__EN.html#gabd3eac49fde39a343dafaaf3230f52f2", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_RX_FULL_DIS", "group__SPI17Y__WAKE__EN.html#gaa3f07f3e5403cecf67c96c88b813d050", null ],
+    [ "MXC_V_SPI17Y_WAKE_EN_RX_FULL_EN", "group__SPI17Y__WAKE__EN.html#ga15fac0dfe26db22327783e705bf768f3", null ],
+    [ "MXC_S_SPI17Y_WAKE_EN_RX_FULL_EN", "group__SPI17Y__WAKE__EN.html#ga3e364f252099248e156bfe9162ae4a26", null ]
+];
