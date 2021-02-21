@@ -1,5 +1,11 @@
 # BSP_BOARD_MAX32660
 
+## 简介
+
+这边主要介绍开发板MAX32660-EVESYS 开发板的所有资料，和MAX32660的所有资料的整理，以及IDE的简介，方便日后再次使用该开发板的时候再次回忆，如果你有好的资料也欢迎PR到这个仓库来。
+
+![image-20210217115018002](images/image-20210217115018002.png)
+
 ## IDE
 
 - eclipse :  Windows: [ARMCortexToolchain.exe](04_tools\ARMCortexToolchain.exe)    Mac:  [ARMCortexToolchain.dmg](04_tools\ARMCortexToolchain.dmg) 
@@ -7,9 +13,7 @@
 ​       使用教程：  [eclipse.pdf](04_tools\eclipse.pdf) 
 
 - keil:  [Maxim.MAX32660.1.2.0.pack](04_tools\Maxim.MAX32660.1.2.0.pack) 
-- IAR
-
-
+- 
 
 ## 芯片相关
 
@@ -18,6 +22,8 @@
 参考手册： [Reference mannule.pdf](01_Reference_Mannel\Reference mannule.pdf)  
 
 datasheet：  [MAX32660_datasheet.pdf](02_datasheet\MAX32660_datasheet.pdf) 
+
+SDK API 手册：  [index.html](07_sdk_api_document\index.html) 
 
 App Note: 
 
@@ -65,7 +71,11 @@ App Note:
 
 [电子发烧友](https://s.elecfans.com/s?type=1&keyword=MAX32660)
 
+## github参考代码
 
+- [RTTHREAD-BSP-MAX32660](https://github.com/RT-Thread/rt-thread/tree/master/bsp/maxim/MAX32660_EVSYS)
+
+- 
 
 ## 芯片开发参考手册摘要
 
